@@ -1,0 +1,30 @@
+1076 00001.517   USER      pygaze initiati9.05865e+006	End of Log file
+9   USER      experiment: experiment
+1076 00001.519   USER      participant: participant
+1076 00001.519   USER      display resolution: 1920x1080
+1076 00001.519   USER      display size in cm: 33.8x27.1
+1076 00001.519   USER      samplerate: 30 Hz
+1076 00001.519   USER      sampletime: 33.3333333333 ms
+1076 00001.519   USER      fixation threshold: 1.5 degrees
+1076 00001.519   USER      speed threshold: 35 degrees/second
+1076 00001.519   USER      acceleration threshold: 9500 degrees/second**2
+1076 00001.519   USER      pygaze initiation report end
+1076 00001.941   ERROR     could not open validation point file!
+4264 00025.987   ERROR     !ticket carries no result
+1076 00027.063   USER      pygaze calibration report start
+1076 00027.063   USER      accuracy (degrees): LX=0.236415516858, LY=0.351381654474, RX=0.236415516858, RY=0.351381654474
+1076 00027.063   USER      accuracy (in pixels): LX=12.3067583015, LY=18.2915183555, RX=12.3067583015, RY=18.2915183555
+1076 00027.063   USER      precision (RMS noise in pixels): X=3.84969088761, Y=22.8785107076
+1076 00027.063   USER      distance between participant and display: 61.7140362599 cm
+1076 00027.063   USER      fixation threshold: 78.1008434796 pixels
+1076 00027.063   USER      speed threshold: 1.82193688177 pixels/ms
+1076 00027.063   USER      acceleration threshold: 499.10784636 pixels/ms**2
+1076 00027.063   USER      pygaze calibration report end
+1076 00027.063   USER      start_recording
+1076 00028.019   USER      start_trial
+1076 00075.754   USER      pressed z or x
+1076 00085.148   USER      !V TRIAL_VAR response None
+1076 00085.149   USER      !V TRIAL_VAR response_time 4429
+1076 00085.151   USER      
+1076 00085.153   USER      stop_trial
+4264 00086.185   ERROR     !ticket carries no result

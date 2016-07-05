@@ -1,0 +1,12 @@
+
+
+put pylink into OS dir
+put tobii sdk into OS dir
+edited libtobii.py (from pygaze github) to import Image and ImageDraw as "from PIL".
+
+errors - pygaze_drift_correct
+problem... not sure what. 
+same for both trackers.
+
+Aha, can't use drift correct in same sequence as init. needs to be embedded in a loop.
+
